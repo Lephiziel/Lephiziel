@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello, I'm Zakhar 👋
 
-<!--
-**Lephiziel/Lephiziel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Golang Backend Developer and a third-year student at PSHPU (Computer Science).
 
-Here are some ideas to get you started:
+I started out with Python/FastAPI, but now I code in Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Writing backends in Go: Gin, GORM, PostgreSQL, JWT authentication
+- 📚 Studying the inner workings of Go: scheduler, goroutines and concurrency patterns
+- 🎯 Looking for a Go developer internship
+- 💬 DM me on Telegram: [@brokenmachines](https://t.me/brokenmachines)
+
+---
+
+### 🛠 Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📌 Projects
+
+**[student-planner](https://github.com/Lephiziel/student-planner)** — Backend for a task planner for students, written entirely by me: layered architecture (handler → service → repository), JWT authorisation with access and refresh tokens, PostgreSQL, Docker Compose.
+
+**[ToDoAPI](https://github.com/Lephiziel/ToDoAPI)** — My first backend project: a REST API built with Python and FastAPI; that’s where my journey into backend development began.
+
+---
+
+### 📊 Activity
+
+![Lephiziel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lephiziel&show_icons=true&theme=default&hide_border=true)
