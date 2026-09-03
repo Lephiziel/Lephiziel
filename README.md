@@ -6,10 +6,10 @@ Golang Backend Developer and a third-year student at PSHPU (Computer Science).
 
 I started out with Python/FastAPI, but now I code in Go.
 
-- 🔭 Writing backends in Go: Gin, GORM, PostgreSQL, JWT authentication
-- 📚 Studying the inner workings of Go: scheduler, goroutines and concurrency patterns
-- 🎯 Looking for a Go developer internship
-- 💬 DM me on Telegram: [@brokenmachines](https://t.me/brokenmachines)
+🔭 Writing backends in Go: Gin, GORM, PostgreSQL, JWT authentication
+📚 Studying the inner workings of Go: scheduler, goroutines and concurrency patterns
+🎯 Looking for a Go developer internship
+💬 DM me on Telegram: [@brokenmachines](https://t.me/brokenmachines)
 
 ---
 
