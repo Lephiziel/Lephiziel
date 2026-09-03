@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hello, I'm Zakhar 👋
 
 Golang Backend Developer and a third-year student at PSHPU (Computer Science).
@@ -27,7 +29,7 @@ I started out with Python/FastAPI, but now I code in Go.
  
 **Tools & OS**
  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -37,8 +39,4 @@ I started out with Python/FastAPI, but now I code in Go.
 
 **[ToDoAPI](https://github.com/Lephiziel/ToDoAPI)** — My first backend project: a REST API built with Python and FastAPI; that’s where my journey into backend development began.
 
----
-
-### 📊 Activity
-
-![Lephiziel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lephiziel&show_icons=true&theme=default&hide_border=true)
+</div>
