@@ -6,7 +6,7 @@ Golang Backend Developer and a third-year student at PSHPU (Computer Science).
 
 I started out with Python/FastAPI, but now I code in Go.
 
-🔭 Writing backends in Go: Gin, GORM, PostgreSQL, JWT authentication
+🔭 Writing backends in Go: net/http, Gin, GORM, PostgreSQL, Redis, JWT authentication
 
 📚 Studying the inner workings of Go: scheduler, goroutines and concurrency patterns
 
@@ -28,17 +28,17 @@ I started out with Python/FastAPI, but now I code in Go.
  
 **Databases & Infra**
  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
  
 **Tools & OS**
  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### 📌 Projects
 
-**[url-shortener](https://github.com/Lephiziel/url-shortener)** — A URL shortener built with Go (`net/http`), PostgreSQL, and Redis. Features a layered architecture with dependency injection, a custom base62 encoder utilizing Postgres SEQUENCE to minimize memory allocations, Redis cache-aside with graceful degradation, and full dockerization with a CI pipeline via GitHub Actions.
+**[url-shortener](https://github.com/Lephiziel/url-shortener)** — A URL shortener: layered architecture on interfaces (handler → service → repository), PostgreSQL via pgx, a Redis cache-aside layer with graceful degradation, golang-migrate migrations, full Docker/Docker Compose setup, unit tests, and a GitHub Actions CI pipeline.
 
 **[student-planner](https://github.com/Lephiziel/student-planner)** — Backend for a task planner for students, written entirely by me: layered architecture (handler → service → repository), JWT authorisation with access and refresh tokens, PostgreSQL, Docker Compose.
 
