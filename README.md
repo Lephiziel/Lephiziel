@@ -38,7 +38,7 @@ I build backend services in Go and focus on clean architecture, databases, cachi
 
 ### 📌 Projects
 
-**[url-shortener](https://github.com/Lephiziel/url-shortener)** — Go URL shortener with layered architecture and dependency injection, HTTP and gRPC APIs, PostgreSQL via pgx, Redis cache-aside with graceful degradation, Kafka event publishing with franz-go, Protocol Buffers, database migrations, graceful shutdown, Docker Compose, and unit tests with handwritten mocks.
+**[url-shortener](https://github.com/Lephiziel/url-shortener)** — Go backend with HTTP and gRPC APIs, PostgreSQL, Redis cache-aside, and asynchronous Kafka event publishing. Includes a separate analytics consumer that persists visits in PostgreSQL, commits Kafka offsets after database writes, and deduplicates replayed records. Built with layered architecture, dependency injection, database migrations, Docker Compose, graceful shutdown, and unit tests.
 
 **[student-planner](https://github.com/Lephiziel/student-planner)** — Backend for a student task planner with layered architecture, JWT authentication with access and refresh tokens, PostgreSQL, and Docker Compose.
 
